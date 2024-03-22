@@ -1,7 +1,7 @@
 
 <h1> <img src ="/images/bateria.png" alt="Logo Alura Midi"></h1>
 
-<img src="https://img.shields.io/github/license/LincolnMota07/rock-bar-mobile-prot-tipo">
+<img src="https://img.shields.io/github/license/LincolnMota07/Alura-MIDI">
 
 <h2> 📜 Sobre</h2>
 <p>Projeto desafio do curso de Manipulaação de Html e Css utilizando JavaScript da escola Alura.</p>
