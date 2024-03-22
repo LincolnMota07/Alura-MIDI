@@ -19,7 +19,7 @@
 </div>
 
 ## 🔗 Site do Projeto
-<a href="https://rockbarbartender-eight.vercel.app/" target="_blank">AluraMidi</a>
+<a href="https://alura-midi-steel-omega.vercel.app/" target="_blank">AluraMidi</a>
 
 
 ## 🫂 Time
